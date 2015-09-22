@@ -7,7 +7,7 @@ Welcome to Genentech RNAseq Example's documentation!
 ====================================================
 
 
-Download the data and script from `here <http://github.com/biobenkj/example-RNAseq-master.zip>`__
+Download the data and script from `here <http://github.com/biobenkj/example-RNAseq/archive/master.zip>`__
 
 `This is the paper <http://onlinelibrary.wiley.com/doi/10.1111/mmi.12688/abstract>`__ that uses the data we are using.
 
